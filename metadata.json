@@ -1,0 +1,39 @@
+{
+  "name": "Edge-AI Security Dashboard",
+  "version": "2.4.1",
+  "description": "Real-time smart security monitoring dashboard using YOLOv8, OpenCV, and TensorRT for intelligent object detection and tracking",
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/edge-ai-security-dashboard"
+  },
+  "keywords": [
+    "yolov8",
+    "object-detection",
+    "security-monitoring",
+    "opencv",
+    "computer-vision",
+    "edge-ai",
+    "react",
+    "typescript",
+    "flask",
+    "real-time",
+    "surveillance",
+    "tensorrt"
+  ],
+  "technologies": {
+    "backend": ["Python 3.x", "Flask", "YOLOv8", "OpenCV", "psutil"],
+    "frontend": ["React 19", "TypeScript", "Vite", "TailwindCSS", "Recharts"],
+    "ai": ["YOLOv8 Nano", "Ultralytics", "TensorRT"]
+  },
+  "features": [
+    "Real-time object detection",
+    "Live video streaming",
+    "Performance monitoring",
+    "Event logging",
+    "Smart alerts",
+    "Modern dark UI"
+  ],
+  "requestFramePermissions": []
+}

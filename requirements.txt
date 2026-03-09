@@ -1,0 +1,26 @@
+# Edge-AI Security Dashboard - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# AI & Computer Vision
+ultralytics==8.1.0
+opencv-python==4.9.0.80
+
+# System Monitoring
+psutil==5.9.8
+
+# Additional Dependencies (auto-installed with ultralytics)
+# - torch
+# - torchvision
+# - numpy
+# - pillow
+# - pyyaml
+# - requests
+# - scipy
+# - tqdm
+# - matplotlib
+# - seaborn
+# - pandas
