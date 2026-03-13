@@ -25,6 +25,15 @@ A real-time computer vision system for security monitoring with edge AI inferenc
 - Combined inference and UI into a clear demonstrable system
 - Strengthened portfolio quality for AI + software integration
 
+## Documentation
+- [Quick start guide](QUICKSTART.md)
+- [Architecture overview](ARCHITECTURE.md)
+- [Project summary](PROJECT_SUMMARY.md)
+
+## Demonstration Assets
+- [Frontend entry](index.html)
+- [Run script for local demo](run_all.bat)
+
 ## Installation
 ```bash
 git clone https://github.com/laninh-tech/Edge-AI-Security-Monitoring-System.git
